@@ -1,4 +1,4 @@
-# Magento-2-Ajax-Suite-Extension
+# Magento 2 Ajax Suite Extension
 
 In many recent surveys, the page reloads can be considered as one of the most annoying elements that have negative impacts on online purchasers. The reason is that it causes a huge waste of time, especially when the users own a slow Internet connection speed. As a result, a lot of buyers gradually feel tired of online shopping and even stop buying from certain shops.
 
