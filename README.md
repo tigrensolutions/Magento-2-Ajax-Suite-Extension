@@ -2,7 +2,7 @@
 
 In many recent surveys, the page reloads can be considered as one of the most annoying elements that have negative impacts on online purchasers. The reason is that it causes a huge waste of time, especially when the users own a slow Internet connection speed. As a result, a lot of buyers gradually feel tired of online shopping and even stop buying from certain shops.
 
-<div class="list-features" style="text-align: justify;">Therefore, the Free <b>Magento 2 Ajax Suite</b> (including <em>Ajax Cart, Ajax Login, Ajax Wishlist, Ajax Compare</em>) was developed to help the store owners handle this headache problem.
+<div class="list-features" style="text-align: justify;">Therefore, the Free <b><a href="https://www.tigren.com/magento-2-ajax-add-to-cart" rel="nofollow">Magento 2 Ajax Suite</a></b> (including <em>Ajax Cart, Ajax Login, Ajax Wishlist, Ajax Compare</em>) was developed to help the store owners handle this headache problem.
 These great extensions say absolutely “No” to irritating page reloads and offer amazing popups instead. It’s quite hard to describe in words what the incredible <b>Ajax Suite</b> can bring about, let’s give it a try, and both you and your customers will be definitely satisfied.</div>
 <div class="list-features" style="text-align: justify;"></div>
 <div class="list-features" style="text-align: justify;"></div>
